@@ -7,4 +7,5 @@ will timeout after 100 seconds.  The library doesn't offer a way to set the time
 I have modified the library to increase the timeout to 1000 seconds.  That is a quick and dirty hack, but it works.
 I have uploaded my modified version as OpenAI_API.dll into the project.  DO NOT use the NuGet version until they fix the problem.
 There is a github issue open on the problem.  You can monitor it to see if and when they fix it: 
+
 https://github.com/OkGoDoIt/OpenAI-API-dotnet/issues/102
